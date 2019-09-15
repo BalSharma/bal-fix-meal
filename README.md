@@ -1,4 +1,4 @@
-# fix-dishes
+# bal-fix-meal
 
 ## Project setup
 ```
@@ -23,6 +23,10 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
+```
+### Lints and fixes files
+```
+I will host this app firestore see how it comes
 ```
 
 ### Customize configuration
